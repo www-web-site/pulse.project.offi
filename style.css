@@ -786,7 +786,7 @@ button.buy {
   text-transform: uppercase;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 490px) {
   body {
     padding-right: 0;
     padding-left: 0;
